@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
+title: 해피쇼핑위켄
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/happyshopping.png
 nav-menu: true
 ---
 
